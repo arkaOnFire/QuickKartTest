@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickKartDataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39a5714d34d4d486893706c26dc10b4f7d6b12f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffa4066743e827d03af9fe60e22ac2e57d0a83eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickKartDataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickKartDataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

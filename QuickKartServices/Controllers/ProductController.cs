@@ -28,6 +28,21 @@ namespace QuickKartServices.Controllers
 			}
 			return Json(products);
 		}
+		[HttpGet]
+		public JsonResult GetProductById(string productId)
+		{
+			Product product;
+			try
+			{
+				product = repository.GetProductById(productId);
+			}
+			catch (Exception)
+			{
+				product = null;
+			}
+			return Json(product);
+		}
+
 
 
 	}

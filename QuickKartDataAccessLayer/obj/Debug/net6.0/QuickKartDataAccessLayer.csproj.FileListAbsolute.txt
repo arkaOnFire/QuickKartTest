@@ -1,0 +1,58 @@
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.deps.json
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.runtimeconfig.json
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.dll
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\ref\QuickKartDataAccessLayer.dll
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.pdb
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.dll
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\ref\QuickKartDataAccessLayer.dll
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.pdb
+C:\Users\reshma11\Desktop\Solution\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.genruntimeconfig.cache
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.deps.json
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.runtimeconfig.json
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.dll
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\ref\QuickKartDataAccessLayer.dll
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.pdb
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.dll
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\ref\QuickKartDataAccessLayer.dll
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.pdb
+C:\Users\reshma11\Desktop\CourseRevamp\WEBAPI_SuppliedFolderR\LexUpload\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.genruntimeconfig.cache
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.deps.json
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.runtimeconfig.json
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.dll
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.pdb
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.dll
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\refint\QuickKartDataAccessLayer.dll
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.pdb
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.genruntimeconfig.cache
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\ref\QuickKartDataAccessLayer.dll
+C:\Users\saidurga.sara\Downloads\SuppliedFolder-Modified\SuppliedFolder\SuppliedFolder\Day1\QuickKart\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\appsettings.json
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\appsettings.json
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.deps.json
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.runtimeconfig.json
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.dll
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\bin\Debug\net6.0\QuickKartDataAccessLayer.pdb
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.csproj.AssemblyReference.cache
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.AssemblyInfoInputs.cache
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.AssemblyInfo.cs
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.dll
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\refint\QuickKartDataAccessLayer.dll
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.pdb
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\QuickKartDataAccessLayer.genruntimeconfig.cache
+C:\Work\Infy Course\SuppliedFolder1685971379392\Day1\QuickKart\QuickKartDataAccessLayer\obj\Debug\net6.0\ref\QuickKartDataAccessLayer.dll

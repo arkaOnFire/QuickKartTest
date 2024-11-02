@@ -28,5 +28,19 @@ namespace QuickKartServices.Controllers
 			}
 			return Json(categories);
 		}
+		[HttpPost]
+		public Boolean AddCategory(Category category)
+		{
+			bool status = false;
+			try
+			{
+				status = repository.AddCategory(category);
+			}
+			catch (Exception)
+			{
+				status = false;
+			}
+			return status;
+		}
 	}
 }

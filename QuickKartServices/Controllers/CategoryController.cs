@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using QuickKartDataAccessLayer;
 using QuickKartDataAccessLayer.Models;
+using QuickKartServices.Models;
 
 namespace QuickKartServices.Controllers
 {
@@ -52,6 +53,25 @@ namespace QuickKartServices.Controllers
 				{
 					status = repository.UpdateCategory(categories.CategoryId, categories.CategoryName);
 				}
+			}
+			catch (Exception)
+			{
+				status = false;
+			}
+			return status;
+		}
+		[HttpDelete]
+		public Boolean DeleteCategory(byte categoryId)
+		{
+			bool status = false;
+			try
+			{
+				if (categoryId!=0)
+				{
+					status = repository.DeleteCategory(categoryId);
+				}
+				else
+					status = false;
 			}
 			catch (Exception)
 			{

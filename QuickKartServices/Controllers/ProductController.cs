@@ -135,6 +135,21 @@ namespace QuickKartServices.Controllers
 			}
 			return status;
 		}
+		[HttpDelete]
+		public JsonResult DeleteProduct(string productId)
+		{
+			bool status = false;
+			try
+			{
+				status = repository.DeleteProduct(productId);
+			}
+			catch (Exception)
+			{
+				status = false;
+			}
+			return Json(status);
+		}
+
 
 	}
 }

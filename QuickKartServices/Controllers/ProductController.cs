@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using QuickKartDataAccessLayer;
 using QuickKartDataAccessLayer.Models;
+using QuickKartServices.Models;
+using Product = QuickKartDataAccessLayer.Models.Product;
 
 namespace QuickKartServices.Controllers
 {
@@ -105,5 +107,34 @@ namespace QuickKartServices.Controllers
 			}
 			return status;
 		}
+		[HttpPut]
+		public bool UpdateProductByAPIModels(Models.Product product)
+		{
+			bool status = false;
+
+			try
+			{
+				if (ModelState.IsValid)
+				{
+					Product prodObj = new Product();
+					prodObj.ProductId = product.ProductId;
+					prodObj.ProductName = product.ProductName;
+					prodObj.CategoryId = product.CategoryId;
+					prodObj.Price = product.Price;
+					prodObj.QuantityAvailable = product.QuantityAvailable;
+					status = repository.UpdateProduct(prodObj);
+				}
+				else
+				{
+					status = false;
+				}
+			}
+			catch (Exception)
+			{
+				status = false;
+			}
+			return status;
+		}
+
 	}
 }

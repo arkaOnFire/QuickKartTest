@@ -42,5 +42,22 @@ namespace QuickKartServices.Controllers
 			}
 			return status;
 		}
+		[HttpPut]
+		public Boolean UpdateCategory(Models.Categories categories)
+		{
+			bool status = false;
+			try
+			{
+				if(ModelState.IsValid)
+				{
+					status = repository.UpdateCategory(categories.CategoryId, categories.CategoryName);
+				}
+			}
+			catch (Exception)
+			{
+				status = false;
+			}
+			return status;
+		}
 	}
 }
